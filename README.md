@@ -389,17 +389,6 @@ data_artist = (
 )
 ```
 
-    C:\Users\garni\AppData\Local\Temp\ipykernel_22352\1338897866.py:2: SettingWithCopyWarning:
-    
-    
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-    
-    
-
-
 ```python
 top_artist_clean = (
     data_artist
